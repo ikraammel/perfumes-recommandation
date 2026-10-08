@@ -1,10 +1,19 @@
-# Perfume Recommendation
+# Perfume Recommendation — Personalized Fragrance Discovery
 
-A project exploring perfume recommendations.
+A perfume recommendation web application that suggests fragrances based on users' preferences.
 
-## Repository overview
+## Key features
 
-This repository is part of my software engineering portfolio. It contains the implementation and supporting project files for **Perfume Recommendation**.
+- Preference-based perfume recommendations
+- Web interface for discovering fragrances
+- Natural language processing as part of the recommendation project
+
+## Technology stack
+
+- React.js
+- Python
+- Streamlit
+- NLP
 
 ## Getting started
 
@@ -14,12 +23,11 @@ Clone the repository:
 git clone https://github.com/ikraammel/perfumes-recommandation.git
 cd perfumes-recommandation
 ```
+Install the dependencies for the relevant application components and configure any required environment variables or external services according to the project source.
 
-Review the source files and dependency manifests for the project's runtime and configuration requirements.
+## About this project
 
-## Project structure
-
-Browse the source folders in this repository to explore the implementation. For projects with separate frontend and backend components, configure and run each component independently.
+Part of my software engineering project portfolio.
 
 ## Author
 
